@@ -3,7 +3,7 @@
 **Student:** Swapnil Nag Swachha
 **ID:** IT24001
 
-**Course:** Software Engineering
+**Course:** Software Engineering and project management
 **Topic:** Software Design (source: lecture material `SoftEng-Design`)
 **Full Marks:** 40 | **Time:** 1 Hour
 **Level:** Bachelor (BNQF Level 6)
